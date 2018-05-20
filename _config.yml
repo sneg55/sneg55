@@ -1,24 +1,24 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Nick Sawinyh
+bio: Growth Focused Project Manager
 
-description: Eve Adam's Personal Website
+description: Growth focused Project/Product Manager for Saas/Web/Crypto projects with Remote Teams. Currently I'm interested in Blockchain oportunities.
 
 # Profile picture
-picture: assets/images/profile.jpg
+picture: assets/images/sawinyh.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://sawinyh.com
 
 # do you want to display social media links? true or false
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+twitter: sawinyh
+linkedin: sawinyh
+github: sneg55
+email: nsawinyh@gmail.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -45,32 +45,34 @@ skills: true
 
 # add your skills here
 skills-list:
-    - HTML, Jade
-    - CSS (Stylus, Sass, Less)
-    - Javascript, NodeJS
-    - AngularJS, ReactJS
-    - Java, Android
-    - Python
-    - MySQL - MongoDB    
-    - Git    
+    - SEO
+    - PPC
+    - SMM
+    - HTML, CSS
+    - Agile, Scrum
+    - Git
 
 # do you want to display a projects section? true or false
 projects: true
 
 # add your projects here
 project-list:
-    Transcend:
-        name: Transcend
-        description: An android app for meditation 
-        url: https://github.com/Khosbayar/Transcend
-    World-Cup-History:
-        name: World Cup  History
-        description: npm package for FIFA World cup historical data
-        url: https://github.com/jibolash/world-cup-history
+    Callisto Network:
+        name: Callisto Network
+        description: Callisto Network is a blockchain platform with its own cryptocurrency (CLO) that is based on Ethereum protocol, so any Callisto improvements can be applied to Ethereum Classic. Callisto is NOT a testnet or a hardfork of Ethereum Classic. Callisto Network is developed by Ethereum Commonwealth, one of three ETC development teams.
+        url: https://callisto.network/
+    2Miners.com:
+        name: 2Miners.com
+        description: Altcoin's Mining Pool
+        url: https://2miners.com
+    Seomator:
+        name: Seomator
+        description: Saas SEO Audit tool for SEO professionals
+        url: https://seomator.com
 
 
 # do you want to display the theme attribution? true or false
-footer: true
+footer: false
 
 # Enable animations? true or false
 animation: true
