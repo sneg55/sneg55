@@ -1,8 +1,8 @@
 # Your name and what you do
 name: Nick Sawinyh
-bio: Growth Focused Project Manager
+bio: Growth Focused Product Manager
 
-description: Growth focused Project/Product Manager for Saas/Web/Crypto projects with Remote Teams. Currently I'm interested in Blockchain oportunities.
+description: Growth focused Project/Product Manager for Saas/Web/Crypto projects with remote first teams. Currently I'm interested in Blockchain oportunities.
 
 # Profile picture
 picture: assets/images/sawinyh.jpg
@@ -28,7 +28,7 @@ email: nsawinyh@gmail.com
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: medium
+medium: sawinyh
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 
@@ -69,7 +69,10 @@ project-list:
         name: Seomator
         description: Saas SEO Audit tool for SEO professionals
         url: https://seomator.com
-
+    Curatedseotools:
+        name: Curatedseotools
+        description: Best SEO Tools Stash: 258 awesome products right now
+        url: https://curatedseotools.com
 
 # do you want to display the theme attribution? true or false
 footer: false
