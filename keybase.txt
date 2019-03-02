@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/sawinyh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sawinyh.com
+  * I am sawinyh (https://keybase.io/sawinyh) on keybase.
+  * I have a public key with fingerprint BA16 2A84 8797 A67B 4F3D  BA73 1684 8177 70F8 31D5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012046f7f9ce4f1ec7c8e65383f9e683c307f5e16bf4de019f37ce16153dfbc06c470a",
+      "fingerprint": "ba162a848797a67b4f3dba731684817770f831d5",
+      "host": "keybase.io",
+      "key_id": "1684817770f831d5",
+      "kid": "0101422790e7bba9dd87fdac47b0009689c8217f6c7cff6f5ff4f9306ddfc71529e30a",
+      "uid": "2ea7e3bf404e6332a77effd55c2ca619",
+      "username": "sawinyh"
+    },
+    "merkle_root": {
+      "ctime": 1528842129,
+      "hash_meta": "7c0f9116fdcdfc25fcf2d2901c751ccf475368f6bf1fb81fc0ff6bd483477b1e",
+      "seqno": 3067578
+    },
+    "revoke": {
+      "sig_ids": [
+        "0df48611655bb457732ab5da7194d0056511592af04c003a76838e883e7a4aaf0f"
+      ]
+    },
+    "service": {
+      "hostname": "sawinyh.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1528842129,
+  "expire_in": 157680000,
+  "prev": "9c76944cf8e44727c509ce2883b07945c29d5434d100c7b196f53e539324421c",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMP5AnicbVNrbBVFGL1XoNImPFTA2AYubIsIgTKzO7uzWyQ8UlKhohHkZUsvu7Mz
+7ebe3nu7u22pTaHlIUVUoAHFGgoSKilgWonYErwNBRQrSsUEqWgEYnhEa2MowVIK
+OttIjAm/Nt/s+c53zvlmTg8b5Evyj9lQVRrrhRf8Z0+6xb6c8VnbywUjapYJGeVC
+iA58aNikjhsMWaaQIQAoAqQwzDRCEYOUYKJSRZZUiWlUUSUiAcxkChWDIZMCqDEJ
+E15CWTKZQYBCEAa6MFVgViSf2jHbiric1tChIuoqUrGGdQUbiEmmoWMJKvwMYowB
+UyVoyryxIOp4HVycoTs03YryM14EB+Q9Av9QN4BIFLEGKDYMXTNNFTNT52oMAICm
+qBpRRYiZwg0xpjCZMcQ0CSimyQiGsqhRaUB38QCdSHVMJe4RIKpIkqhjTBkzZZmI
+RFeg5gEdakf0QsrRjl5qRcoKhIqpQiG1Q2EatKNR18uWuJaH4PyqikQoatyf7hQE
+C6mr80ZMANMgVJhJuAxRZoSJpqgBSLAMCWEIy5KiMh42ZIYKGYfzwkSqhDA2IOUy
+HFoUiQoZ3AmWscoV2LQkGqLecMfK56k5QkaOAEyGVIVPkmXDQDLG3JIhmzqGGjIB
+kBUZQlkTdQYQAUDSMV+1SlVVolhHOj9mwsoKb5hdYpEBcm9N/7efTqKFXFDMjrpR
+Eg3zHwWuG3MyvFjcspiHLKVG8F+OoGFFTH5HeEcJtR0rGuExceQjEqOrY5ZNg5aH
+kLkyvlDgzaElnFIjWNEQIkylCGERExnwq8ubJQNgDfGFaaaMJGRCAAjPTOO7l6gs
+aZKIOD/5L0KocJ16vmfIyo/obrFNhYqTbbmDff4kX8KQx7zH40tKHPnwSY3JGvEA
+LVy75tbBmU7DUOESaVqauHWbuebynBWnTnQcDjcPDzx+cXpt/6fN1+aldvZmXt9K
+EloX1a3qmjGoZuxNK/eFa09t+6bp8ImGo0825mbtyqvIGbX4rbTZd++27Rmyd9j8
+eO2p7Osj0OCPlxzbGElJubjrRmtg+OJf99VjbfyUS84XVc9W7vs8a5qeU908q6fX
+HtbU3j7mNj52s0/tqwsFW95t7+o5cmvid0tBpVqp/La3ZfeCuqzEz5IOlRoHWvrT
+cuetS4n0d1xZPK50kvpjXe9La3+O/3Fg5vGS8+e3l38odJ1zJ3dMPjjrbqX6/Yn6
+xjfi2+6M6+nM3N5U+efs1uVntwRqMl9O+3p1+rKKDcsOWQnrOjaT0+sD95qvjBzf
+fWY+PnS5L+H1zHqa+XT/T6PCpe3F1eXJ1+vW/e1r6MnraJ2zI/WJM3v2nL64u3v1
+kf16/fznavxD2+Ln2su+3O1/UJt64/YN+y93ZXbslR/ubbpSPcE/dgYs+mTvlA15
+d/Zf7V6/8v1XyxJWVUkNY48uKGlrafzlgmFM8N0PBLZ0hFr75gZOvjb81uDU4x+l
+rehtut9fVXtp0uhTs/rXOvsn+tO2PrPs4Ad5/ngA60bRxGuhzufNFY3p4u/Jo+Jv
+hufCymmJ36Z8tWlhd9fGJXDaoinhzM07w72jrya/WJS9Yzp8kGcJby9PjnfujM1O
+vj3kvep3/gGoxv/v
+=SdtC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sawinyh
+
+==================================================================

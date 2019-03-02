@@ -1,14 +1,14 @@
 # Your name and what you do
 name: Nick Sawinyh
-bio: Growth Focused Project Manager
+bio: Growth Focused Product Manager
 
-description: Growth focused Project/Product Manager for Saas/Web/Crypto projects with Remote Teams. Currently I'm interested in Blockchain oportunities.
+description: Growth focused Project/Product Manager for Saas/Web/Crypto projects with remote first teams. Currently I'm interested in Blockchain oportunities.
 
 # Profile picture
 picture: assets/images/sawinyh.jpg
 
 # your url: http://USERNAME.github.io
-url: https://sneg55.github.io
+url: https://sneg55.github.io/sneg55
 
 # do you want to display social media links? true or false
 social-media: true
@@ -28,7 +28,7 @@ email: nsawinyh@gmail.com
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: medium
+medium: sawinyh
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 
@@ -57,20 +57,22 @@ projects: true
 
 # add your projects here
 project-list:
-    Callisto Network:
-        name: Callisto Network
-        description: Callisto Network is a blockchain platform with its own cryptocurrency (CLO) that is based on Ethereum protocol, so any Callisto improvements can be applied to Ethereum Classic. Callisto is NOT a testnet or a hardfork of Ethereum Classic. Callisto Network is developed by Ethereum Commonwealth, one of three ETC development teams.
-        url: https://callisto.network/
     2Miners.com:
         name: 2Miners.com
-        description: Altcoin's Mining Pool
+        description: Multi-coin cryptocurrency mining pool.
         url: https://2miners.com
+    2Masternodes.com:
+        name: 2Masternodes.com
+        description: First fully automated and transparent shared-masternode hosting.
+        url: https://2masternodes.com
     Seomator:
         name: Seomator
         description: Saas SEO Audit tool for SEO professionals
         url: https://seomator.com
-
-
+    Curatedseotools:
+        name: Curatedseotools
+        description: Best SEO Tools Stash
+        url: https://curatedseotools.com
 # do you want to display the theme attribution? true or false
 footer: false
 
