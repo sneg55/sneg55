@@ -57,14 +57,14 @@ projects: true
 
 # add your projects here
 project-list:
-    2Masternodes.com:
-        name: 2Masternodes.com
-        description: First fully automated and transparent masternode hosting and share service.
-        url: https://2masternodes.com
     2Miners.com:
         name: 2Miners.com
-        description: Altcoin's Mining Pool
+        description: Multi-coin cryptocurrency mining pool.
         url: https://2miners.com
+    2Masternodes.com:
+        name: 2Masternodes.com
+        description: First fully automated and transparent shared-masternode hosting.
+        url: https://2masternodes.com
     Seomator:
         name: Seomator
         description: Saas SEO Audit tool for SEO professionals
