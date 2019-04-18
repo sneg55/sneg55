@@ -73,6 +73,10 @@ project-list:
         name: Curatedseotools
         description: Best SEO Tools Stash
         url: https://curatedseotools.com
+    Defiprime:
+        name: DeFiprime
+        description: Best DeFi products
+        url: https://defiprime.com
 # do you want to display the theme attribution? true or false
 footer: false
 
