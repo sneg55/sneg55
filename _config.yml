@@ -57,6 +57,10 @@ projects: true
 
 # add your projects here
 project-list:
+    Defiprime:
+        name: DeFiprime
+        description: Best DeFi products
+        url: https://defiprime.com
     2Miners.com:
         name: 2Miners.com
         description: Multi-coin cryptocurrency mining pool.
@@ -73,10 +77,7 @@ project-list:
         name: Curatedseotools
         description: Best SEO Tools Stash
         url: https://curatedseotools.com
-    Defiprime:
-        name: DeFiprime
-        description: Best DeFi products
-        url: https://defiprime.com
+
 # do you want to display the theme attribution? true or false
 footer: false
 
