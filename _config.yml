@@ -73,10 +73,6 @@ project-list:
         name: Seomator
         description: Saas SEO Audit tool for SEO professionals
         url: https://seomator.com
-    Curatedseotools:
-        name: Curatedseotools
-        description: Best SEO Tools Stash
-        url: https://curatedseotools.com
 
 # do you want to display the theme attribution? true or false
 footer: false
