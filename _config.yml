@@ -2,7 +2,7 @@
 name: Nick Sawinyh
 bio: Growth Focused Product Manager
 
-description: Growth focused Product Manager for Saas/Web/Crypto projects with remote first teams. Currently I'm interested in Blockchain oportunities.
+description: Growth focused Product Manager.
 
 # Profile picture
 picture: assets/images/sawinyh.jpg
@@ -45,9 +45,10 @@ skills: true
 
 # add your skills here
 skills-list:
+    - UI/UX
     - SEO
     - PPC
-    - SMM
+    - Social Media
     - HTML, CSS
     - Agile, Scrum
     - Git
@@ -58,8 +59,8 @@ projects: true
 # add your projects here
 project-list:
     Defiprime:
-        name: DeFiprime
-        description: Best DeFi products
+        name: DeFiprime.com
+        description: The only media focused on Decentralized Finance(DeFi) products
         url: https://defiprime.com
     2Miners.com:
         name: 2Miners.com
@@ -78,7 +79,7 @@ project-list:
 footer: false
 
 # Enable animations? true or false
-animation: true
+animation: false
 
 gems:
   - jekyll-seo-tag
