@@ -60,7 +60,7 @@ projects: true
 project-list:
     Defiprime:
         name: DeFiprime.com
-        description: The only media focused on Decentralized Finance(DeFi) products
+        description: The first media outlet focused on DeFi and Open Finance products
         url: https://defiprime.com
     2Miners.com:
         name: 2Miners.com
