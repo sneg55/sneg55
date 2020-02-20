@@ -62,10 +62,6 @@ project-list:
         name: DeFiprime.com
         description: The first media outlet focused on DeFi and Open Finance products
         url: https://defiprime.com
-    2Miners.com:
-        name: 2Miners.com
-        description: Multi-coin cryptocurrency mining pool.
-        url: https://2miners.com
     Seomator:
         name: Seomator
         description: Saas SEO Audit tool for SEO professionals
